@@ -1,0 +1,3 @@
+const inputCollector = require("prompt-sync")();
+
+const age = inputCollector("How old are you? ")

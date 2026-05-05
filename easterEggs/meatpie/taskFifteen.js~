@@ -1,0 +1,5 @@
+for(counter = 1;counter <= 3; counter++){
+    const num = Number(inputCollector("What's your number? "))
+    
+    sum+=num
+}

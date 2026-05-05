@@ -1,0 +1,6 @@
+const inputCollector = require("prompt-sync")();
+
+const num = Number(inputCollector("What's your number? "))
+
+square = num *
+console.log(`the square of ${num} is ${square}`)

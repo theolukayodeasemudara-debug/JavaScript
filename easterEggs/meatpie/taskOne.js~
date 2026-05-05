@@ -1,0 +1,4 @@
+index = 1;
+for(;index <= 10;index++){
+   console.log("*")
+}
