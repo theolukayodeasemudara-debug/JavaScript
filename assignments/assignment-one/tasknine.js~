@@ -1,0 +1,7 @@
+const phone = {
+    brand: "Samsung",
+    color: "Blue"
+    storage: "128GB"
+}
+
+console.log(phone)

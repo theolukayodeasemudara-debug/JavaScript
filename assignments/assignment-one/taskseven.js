@@ -1,0 +1,26 @@
+const account = {
+    balance: 500,
+    isBlocked: false
+}
+
+const prompt = require("prompt-sync")();
+const account_status = prompt(`what is your account status? enter "blocked" or "open"`  ).toLowerCase().replace(" ", "");
+const account_balance = Number(prompt("what is your account balance? "))
+
+account.balance = account_balance
+status = account_status
+const {balance, isBlocked} = account
+
+if(status == "blocked"){
+    isBlocked == true
+    console.log("Account blocked")
+}
+
+if(balance < 100){
+    console.log("Low balance!!!")
+} else{
+    console.log("OK")
+}
+
+
+

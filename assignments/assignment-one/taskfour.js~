@@ -1,0 +1,4 @@
+const product ={
+    price: 1200,
+    inStock:true
+}
