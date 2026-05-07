@@ -1,0 +1,6 @@
+const prompt = require("prompt-sync")();
+const sq_meters = prompt("Enter the subtotal: ");
+const rate = prompt("Enter the gratuity rate: ");
+
+console.log(gratuity = subTotal * (rate/100);)
+console.log(total = subTotal + gratuity;)
