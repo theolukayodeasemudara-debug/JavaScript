@@ -1,4 +1,0 @@
-const prompt = require("prompt-sync")();
-const meter = prompt("Convert meter to feet: ");
-
-
