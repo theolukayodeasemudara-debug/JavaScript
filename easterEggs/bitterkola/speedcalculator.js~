@@ -1,0 +1,2 @@
+const prompt = require("prompt-sync")();
+const salary = prompt("Enter your salary to calculate tax value: ")
