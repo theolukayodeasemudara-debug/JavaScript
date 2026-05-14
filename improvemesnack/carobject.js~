@@ -1,0 +1,7 @@
+write a function that accepts the following car object and returns: This car is available. if available is true.
+
+const car = {
+    brand: "Toyota",
+    model: "Camry",
+    available: true
+}
