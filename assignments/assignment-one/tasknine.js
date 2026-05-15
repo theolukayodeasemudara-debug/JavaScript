@@ -4,6 +4,5 @@ const phone = {
     storage: "128GB"
 }
 
-
-delete (phone.color)
+delete(phone.color)
 console.log(phone)

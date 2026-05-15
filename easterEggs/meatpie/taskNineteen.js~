@@ -1,6 +1,0 @@
-const inputCollector = require("prompt-sync")();
-
-const length = Number(inputCollector("What's your length? "))
-const breadth = Number(inputCollector("What's your breadth? "))
-    
-

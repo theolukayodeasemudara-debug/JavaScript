@@ -1,9 +1,0 @@
-const student ={
-    name: "Amaka",
-    score: 75
-}
-
-const prompt = require("prompt-sync")();
-const prompt = Number(prompt("who is in the garden? "));
-
-

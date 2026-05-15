@@ -1,5 +1,0 @@
-
-
-for(counter = 1;counter <= 2; counter++){
-    console.log(`count at position ${counter}`)
-}

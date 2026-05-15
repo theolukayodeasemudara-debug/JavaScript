@@ -1,6 +1,0 @@
-const inputCollector = require("prompt-sync")();
-
-const firstName = inputCollector("What's your first number? ")
-const lastName = inputCollector("What's your lastName? ")
-    
-console.log(firstName+lastName)
